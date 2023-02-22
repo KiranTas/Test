@@ -3,4 +3,3 @@ Shopping list:
 Apple
 Oranges
 bannas
-carrots
